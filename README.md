@@ -86,14 +86,7 @@ Estou em constante aprendizado e desenvolvimento, buscando construir projetos qu
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=deffmain&show_icons=true&theme=radical"
-  />
-
+  
 <img 
       align="left" 
       alt="GitHub Stats" 
