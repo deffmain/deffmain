@@ -85,13 +85,7 @@ Estou em constante aprendizado e desenvolvimento, buscando construir projetos qu
 
 ### 📊 Estatísticas
 
-<p>
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deffmain&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deffmain&show_icons=true&theme=radical)
 
-</p>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deffmain&show_icons=true&theme=radical" />
