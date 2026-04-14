@@ -79,13 +79,3 @@ Estou em constante aprendizado e desenvolvimento, buscando construir projetos qu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deffmain&show_icons=true&theme=radical)
-
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deffmain&show_icons=true&theme=radical" />
