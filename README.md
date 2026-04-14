@@ -1,16 +1,22 @@
 # 👨🏻‍💻 Micael Martins
 
-**`Engenharia de software`**
+**`Engenharia de Software | Desenvolvedor em evolução 🚀`**
 
-Sou estudante de Engenharia de Software e apaixonado por tecnologia.
+Sou estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de soluções.
 
-Atualmente, estou focado no desenvolvimento de software, estudando Java e também desenvolvimento web com HTML, CSS e JavaScript, com o objetivo de evoluir para React.
+Atualmente, estou focado no desenvolvimento de software com **Java**, além de estudar **desenvolvimento web (HTML, CSS e JavaScript)**, com o objetivo de evoluir para **React** e aplicações completas.
 
-Tenho interesse em criar aplicações bem estruturadas, aplicando boas práticas de programação, organização de código e resolução de problemas.
+Tenho interesse em construir sistemas bem estruturados, aplicando:
+- Boas práticas de programação
+- Organização e arquitetura de código
+- Resolução eficiente de problemas
 
-Estou em constante aprendizado e desenvolvimento, buscando construir projetos que fortaleçam minhas habilidades e meu portfólio.
+💡 Também venho explorando o uso de **Inteligência Artificial no desenvolvimento**, buscando entender como aplicar IA para automatizar processos, gerar valor em sistemas e criar soluções mais inteligentes.
+
+Estou em constante evolução, desenvolvendo projetos que fortalecem minhas habilidades técnicas e contribuem para meu portfólio.
 
 🚀 Aberto a oportunidades para aprender, colaborar e crescer na área de desenvolvimento.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -79,3 +85,12 @@ Estou em constante aprendizado e desenvolvimento, buscando construir projetos qu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deffmain&show_icons=true&theme=radical)
