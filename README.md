@@ -6,13 +6,13 @@ Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e pelo de
 
 Tenho **Java e Spring** como meus principais recursos de desenvolvimento atualmente, especialmente para construção de aplicações e APIs, mas mantenho uma postura aberta ao aprendizado e ao uso de diferentes tecnologias, buscando sempre escolher as ferramentas mais adequadas para cada problema.
 
+
 ### 💼 Atualmente
 
-Atuo na **Sysok**, trabalhando principalmente com **suporte e implantação de sistemas**. Nesse contexto, participo da implantação de soluções, da estruturação e evolução dos processos de suporte e do desenvolvimento de soluções voltadas para as necessidades da área.
-
-Também desenvolvo ferramentas e melhorias que, após serem validadas, são **colocadas em produção**, buscando transformar necessidades identificadas no dia a dia em soluções práticas.
-
-Paralelamente, desenvolvo projetos próprios para aprofundar meus conhecimentos e transformar ideias em produtos.
+* **Atuo na Sysok**, trabalhando com implantação de sistemas, estruturação do suporte e desenvolvimento de soluções para a área, incluindo ferramentas que já estão em produção.
+* **Desenvolvo o Cultiva**, uma solução voltada para agricultura doméstica e em pequena escala, com foco em simplicidade e acessibilidade.
+* **Aprofundo meus conhecimentos em Inteligência Artificial**, estudando seus fundamentos e aplicações no desenvolvimento de software e na criação de soluções.
+* **Continuo ampliando minhas habilidades técnicas**, explorando novas tecnologias e buscando me adaptar às diferentes necessidades de cada projeto.
 
 Um desses projetos é o **Cultiva**, uma solução voltada para **agricultura doméstica e pequenos agricultores**, com foco em oferecer uma experiência simples e acessível para auxiliar no planejamento e acompanhamento do cultivo.
 
@@ -22,15 +22,14 @@ Tenho dedicado parte dos meus estudos ao **aprofundamento em Inteligência Artif
 
 Meu objetivo é entender como a IA pode ser integrada de forma responsável a sistemas e processos para **automatizar tarefas, aumentar produtividade, auxiliar na tomada de decisões e criar novas possibilidades de soluções**.
 
-Tenho explorado esse tema tanto academicamente quanto na prática, utilizando projetos e experimentações como forma de consolidar esse conhecimento.
-
 ### 🚀 Desenvolvimento
 
 Busco constantemente evoluir como desenvolvedor, estudando diferentes tecnologias, conceitos e práticas de engenharia de software.
 
 Tenho interesse especial em:
 
-* Desenvolvimento de aplicações e APIs
+* Desenvolvimento de aplicações
+* Desenvolvimento de soluções inovadoras
 * Arquitetura e organização de software
 * Banco de dados e modelagem
 * Boas práticas de programação
@@ -38,8 +37,6 @@ Tenho interesse especial em:
 * Automação e resolução de problemas
 * Inteligência Artificial aplicada ao desenvolvimento
 * Aprendizado de novas tecnologias
-
-Acredito que um bom desenvolvedor não deve estar limitado a uma única tecnologia, mas ser capaz de **aprender, adaptar-se e escolher as ferramentas adequadas para cada desafio**.
 
 ---
 
