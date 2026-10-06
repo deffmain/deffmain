@@ -58,14 +58,6 @@ Atualmente, tenho **Java e Spring Boot** como principais tecnologias, com experi
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deffmain&hide_border=true" />
-
-</div>
-
 ---
 
 ## 📈 Minha atividade
