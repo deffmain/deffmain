@@ -61,6 +61,7 @@ UniEVANGÉLICA — Anápolis, Goiás
 Gosto de aprender coisas novas, explorar possibilidades e, principalmente, colocar ideias em prática. Encontrar um problema, pensar em como resolvê-lo e transformar essa ideia em algo que funciona é uma das coisas que mais me motivam na tecnologia.
 
 Gosto de experimentar, construir projetos, testar caminhos diferentes e descobrir coisas durante o processo. Acredito que a evolução acontece justamente nessa combinação entre curiosidade, prática e vontade de fazer algo novo — e que aprender também deve ser uma experiência divertida.
+
 ---
 
 ## 📫 Contato
