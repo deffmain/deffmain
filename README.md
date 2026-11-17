@@ -74,16 +74,22 @@ Atualmente, tenho **Java e Spring Boot** como principais tecnologias, com experi
 
 Minha atividade no GitHub transformada em uma cobrinha.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/deffmain/deffmain/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/deffmain/deffmain/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake"
-         src="https://raw.githubusercontent.com/deffmain/deffmain/output/github-snake.svg">
-  </picture>
-</p>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deffmain/deffmain/output/github-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deffmain/deffmain/output/github-snake.svg" />
+  <img
+    alt="GitHub Contribution Snake 2026"
+    src="https://raw.githubusercontent.com/deffmain/deffmain/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
