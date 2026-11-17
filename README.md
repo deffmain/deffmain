@@ -66,20 +66,27 @@ Acredito que desenvolver software envolve mais do que dominar ferramentas: exige
 
 ## 📫 Contato
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/deffmain](https://github.com/deffmain)">   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
+<a href="https://github.com/deffmain">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-\<a href="[https://www.linkedin.com/in/micael-cruz-415a92248/](https://www.linkedin.com/in/micael-cruz-415a92248/)">   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"> \</a>
+<a href="https://www.linkedin.com/in/micael-cruz-415a92248/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-\<a href="mailto\:micaelcruz46\@gmail.com">   \<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"> \</a>
+<a href="mailto:micaelcruz46@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-\</div>
+</div>
 
-\<br>
+<br>
 
-\<div align="center">
+<div align="center">
 
 *"Construindo, aprendendo e evoluindo um commit por vez."*
 
-\</div>
+</div>
+
