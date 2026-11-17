@@ -14,10 +14,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Checkout custom Snake implementation
+        uses: actions/checkout@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
+          repository: jjceron/snk
+          ref: d687ff5
+          path: .github/actions/snk-custom
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+        working-directory: .github/actions/snk-custom
+
+      - name: Build Snake
+        run: |
+          bun run build:lib
+          bun run build:action
+        working-directory: .github/actions/snk-custom
+
+      - name: Generate contribution snake
+        uses: ./.github/actions/snk-custom
+        with:
+          github_user_name: deffmain
+          year: "2026"
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
