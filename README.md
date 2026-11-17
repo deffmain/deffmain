@@ -16,7 +16,7 @@ Tenho como princípio o **aprendizado contínuo**, buscando aprofundar meus conh
 
 🔹 **Cultiva** — Desenvolvo uma solução voltada para a **agricultura doméstica e pequenos agricultores**, com foco em simplicidade, acessibilidade e utilidade prática. O projeto busca facilitar o planejamento e o acompanhamento do cultivo, aproximando a tecnologia das necessidades de quem produz.
 
-🔹 **Inteligência Artificial** — Estudo fundamentos de Inteligência Artificial e Machine Learning, explorando conceitos, algoritmos e aplicações práticas, com o objetivo de compreender como essas tecnologias podem ampliar as possibilidades de desenvolvimento de software.
+🔹 Evolução Contínua — Estou sempre buscando expandir meus conhecimentos e explorar novas possibilidades na tecnologia. Atualmente, tenho direcionado meus estudos para Inteligência Artificial e Machine Learning, aprofundando meus conhecimentos em algoritmos, modelos e aplicações práticas, com o objetivo de compreender e construir soluções que integrem IA ao desenvolvimento de software.
 
 ---
 
