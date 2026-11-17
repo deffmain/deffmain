@@ -8,6 +8,8 @@ Minha trajetória combina experiência profissional e formação acadêmica, pro
 
 Tenho como princípio o **aprendizado contínuo**, buscando aprofundar meus conhecimentos, explorar novas tecnologias e aprimorar minha capacidade de desenvolver software. Meu objetivo é evoluir como profissional de tecnologia, mantendo a curiosidade, o pensamento analítico e o compromisso com a qualidade do que construo.
 
+Portfólio: <a href=https://portfolio-nine-silk-8kg91zm8nf.vercel.app> acesse aqui!</a>
+
 ---
 
 ## 💼 Atualmente
