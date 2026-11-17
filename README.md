@@ -48,23 +48,6 @@ Tenho como princípio o **aprendizado contínuo**, buscando aprofundar meus conh
 
 ---
 
-## 🚀 Projetos
-
-### 🌱 Cultiva
-
-Solução em desenvolvimento para **agricultura doméstica e pequenos agricultores**. O projeto busca tornar o planejamento e o acompanhamento do cultivo mais simples e acessíveis, utilizando tecnologia para resolver necessidades práticas do cotidiano.
-
-🔗 [Repositório](https://github.com/deffmain/Cultiva)
-
----
-
-### 🅿️ Demo Park API
-
-API REST desenvolvida como projeto de estudo e aprofundamento em Engenharia de Software. O projeto envolve construção de endpoints, persistência de dados, validações, segurança e organização da arquitetura backend.
-
-🔗 [Repositório](COLOQUE_AQUI_O_LINK_DO_DEMO_PARK_API)
-
----
 
 ## 🎓 Formação
 
